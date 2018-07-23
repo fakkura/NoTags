@@ -1,0 +1,4 @@
+c:\users\fakku\documents\visual studio 2010\Projects\NoTags\NoTags\bin\Release\NoTags.exe
+c:\users\fakku\documents\visual studio 2010\Projects\NoTags\NoTags\bin\Release\NoTags.pdb
+c:\users\fakku\documents\visual studio 2010\Projects\NoTags\NoTags\obj\x86\Release\NoTags.exe
+c:\users\fakku\documents\visual studio 2010\Projects\NoTags\NoTags\obj\x86\Release\NoTags.pdb
